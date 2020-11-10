@@ -1,7 +1,7 @@
 # CppMiniProject
 
 ![cppcheck-action](https://github.com/99002480/CppMiniProject/workflows/cppcheck-action/badge.svg)
-![CI](https://github.com/99002480/CppMiniProject/workflows/CI/badge.svg)
+![C/C++ CI](https://github.com/99002480/CppMiniProject/workflows/C/C++%20CI/badge.svg)
 
 
 Funtions:-
