@@ -1,5 +1,8 @@
 # CppMiniProject
 
+![cppcheck-action](https://github.com/99002480/CppMiniProject/workflows/cppcheck-action/badge.svg)
+
+
 Funtions:-
 void initTermios()
 
